@@ -1,0 +1,326 @@
+﻿F1,Number of Records,pollutant,value,diwali,id,state
+1,1,AQI,148.517833,no,2,Andhra Pradesh
+1,1,NO2,21.01792357,no,2,Andhra Pradesh
+1,1,RSPM,77.7911863,no,2,Andhra Pradesh
+1,1,SO2,6.336146935,no,2,Andhra Pradesh
+1,1,SPM,156.1123441,no,2,Andhra Pradesh
+2,1,AQI,86.90065789,no,3,Arunachal Pradesh
+2,1,NO2,9.986403509,no,3,Arunachal Pradesh
+2,1,RSPM,79.31578947,no,3,Arunachal Pradesh
+2,1,SO2,4.381578947,no,3,Arunachal Pradesh
+2,1,SPM,26.2,no,3,Arunachal Pradesh
+3,1,AQI,129.7448099,no,4,Assam
+3,1,NO2,14.69505854,no,4,Assam
+3,1,RSPM,90.45339136,no,4,Assam
+3,1,SO2,6.64503389,no,4,Assam
+3,1,SPM,126.8555293,no,4,Assam
+4,1,AQI,183.1213066,no,5,Bihar
+4,1,NO2,27.95302144,no,5,Bihar
+4,1,RSPM,104.5643275,no,5,Bihar
+4,1,SO2,8.147043535,no,5,Bihar
+4,1,SPM,209.8243194,no,5,Bihar
+5,1,AQI,157.0631644,no,6,Chandigarh
+5,1,NO2,17.64558164,no,6,Chandigarh
+5,1,RSPM,94.04958404,no,6,Chandigarh
+5,1,SO2,6.662325687,no,6,Chandigarh
+5,1,SPM,170.7582909,no,6,Chandigarh
+6,1,AQI,168.6665163,no,7,Chhattisgarh
+6,1,NO2,23.91088889,no,7,Chhattisgarh
+6,1,RSPM,113.3680725,no,7,Chhattisgarh
+6,1,SO2,12.63281053,no,7,Chhattisgarh
+6,1,SPM,182.8068205,no,7,Chhattisgarh
+7,1,AQI,159.2032491,no,8,Dadra & Nagar Haveli
+7,1,NO2,18.23634538,no,8,Dadra & Nagar Haveli
+7,1,RSPM,80.57214859,no,8,Dadra & Nagar Haveli
+7,1,SO2,8.640763052,no,8,Dadra & Nagar Haveli
+7,1,SPM,173.4730321,no,8,Dadra & Nagar Haveli
+8,1,AQI,150.3811453,no,9,Daman & Diu
+8,1,NO2,18.46203022,no,9,Daman & Diu
+8,1,RSPM,77.49589306,no,9,Daman & Diu
+8,1,SO2,8.394227044,no,9,Daman & Diu
+8,1,SPM,163.1538034,no,9,Daman & Diu
+9,1,AQI,235.8015555,no,10,Delhi
+9,1,NO2,36.32049068,no,10,Delhi
+9,1,RSPM,119.0020527,no,10,Delhi
+9,1,SO2,6.768809462,no,10,Delhi
+9,1,SPM,258.7130686,no,10,Delhi
+10,1,AQI,95.73123386,no,11,Goa
+10,1,NO2,14.24750597,no,11,Goa
+10,1,RSPM,63.59743436,no,11,Goa
+10,1,SO2,7.378204132,no,11,Goa
+10,1,SPM,75.58176353,no,11,Goa
+11,1,AQI,157.7241674,no,12,Gujarat
+11,1,NO2,23.67601527,no,12,Gujarat
+11,1,RSPM,98.11194403,no,12,Gujarat
+11,1,SO2,15.05319412,no,12,Gujarat
+11,1,SPM,168.6078055,no,12,Gujarat
+12,1,AQI,186.6393156,no,13,Haryana
+12,1,NO2,21.21417048,no,13,Haryana
+12,1,RSPM,133.35605,no,13,Haryana
+12,1,SO2,10.37245675,no,13,Haryana
+12,1,SPM,201.7233887,no,13,Haryana
+13,1,AQI,146.0889479,no,14,Himachal Pradesh
+13,1,NO2,14.52913023,no,14,Himachal Pradesh
+13,1,RSPM,89.69703736,no,14,Himachal Pradesh
+13,1,SO2,4.857818241,no,14,Himachal Pradesh
+13,1,SPM,147.0655301,no,14,Himachal Pradesh
+14,1,AQI,147.2996276,no,15,Jammu & Kashmir
+14,1,NO2,11.3126367,no,15,Jammu & Kashmir
+14,1,RSPM,113.6641191,no,15,Jammu & Kashmir
+14,1,SO2,8.089064399,no,15,Jammu & Kashmir
+14,1,SPM,128.1753769,no,15,Jammu & Kashmir
+15,1,AQI,170.2051775,no,16,Jharkhand
+15,1,NO2,38.02421927,no,16,Jharkhand
+15,1,RSPM,154.8137528,no,16,Jharkhand
+15,1,SO2,16.13913187,no,16,Jharkhand
+15,1,SPM,166.4915935,no,16,Jharkhand
+16,1,AQI,123.4283055,no,17,Karnataka
+16,1,NO2,22.95332748,no,17,Karnataka
+16,1,RSPM,69.7842347,no,17,Karnataka
+16,1,SO2,9.891129281,no,17,Karnataka
+16,1,SPM,125.0141155,no,17,Karnataka
+17,1,AQI,93.42661541,no,18,Kerala
+17,1,NO2,14.86970672,no,18,Kerala
+17,1,RSPM,50.1480381,no,18,Kerala
+17,1,SO2,5.544043106,no,18,Kerala
+17,1,SPM,96.27663928,no,18,Kerala
+18,1,AQI,153.0380946,no,20,Madhya Pradesh
+18,1,NO2,17.99045179,no,20,Madhya Pradesh
+18,1,RSPM,97.72018913,no,20,Madhya Pradesh
+18,1,SO2,9.938863762,no,20,Madhya Pradesh
+18,1,SPM,164.8790536,no,20,Madhya Pradesh
+19,1,AQI,145.0480595,no,21,Maharashtra
+19,1,NO2,26.13474006,no,21,Maharashtra
+19,1,RSPM,89.67559979,no,21,Maharashtra
+19,1,SO2,12.47385676,no,21,Maharashtra
+19,1,SPM,147.5601047,no,21,Maharashtra
+20,1,AQI,122.2736318,no,22,Manipur
+20,1,NO2,19.99253731,no,22,Manipur
+20,1,RSPM,66.3880597,no,22,Manipur
+20,1,SO2,9.017910448,no,22,Manipur
+20,1,SPM,141.3731343,no,22,Manipur
+21,1,AQI,103.7019111,no,23,Meghalaya
+21,1,NO2,11.54578376,no,23,Meghalaya
+21,1,RSPM,63.63726878,no,23,Meghalaya
+21,1,SO2,4.874591113,no,23,Meghalaya
+21,1,SPM,97.27394623,no,23,Meghalaya
+22,1,AQI,78.54640642,no,24,Mizoram
+22,1,NO2,9.264692656,no,24,Mizoram
+22,1,RSPM,43.30738704,no,24,Mizoram
+22,1,SO2,4.242797908,no,24,Mizoram
+22,1,SPM,78.01042381,no,24,Mizoram
+23,1,AQI,116.0933808,no,25,Nagaland
+23,1,NO2,10.26423891,no,25,Nagaland
+23,1,RSPM,78.13257736,no,25,Nagaland
+23,1,SO2,4.807810513,no,25,Nagaland
+23,1,SPM,114.9571535,no,25,Nagaland
+24,1,AQI,132.3308977,no,26,Odisha
+24,1,NO2,16.3991171,no,26,Odisha
+24,1,RSPM,80.84404902,no,26,Odisha
+24,1,SO2,5.714506417,no,26,Odisha
+24,1,SPM,138.8295429,no,26,Odisha
+25,1,AQI,84.28052103,no,27,Puducherry
+25,1,NO2,13.68826466,no,27,Puducherry
+25,1,RSPM,51.51618418,no,27,Puducherry
+25,1,SO2,9.002012518,no,27,Puducherry
+25,1,SPM,88.31145498,no,27,Puducherry
+26,1,AQI,172.7498463,no,28,Punjab
+26,1,NO2,27.31395585,no,28,Punjab
+26,1,RSPM,152.9609624,no,28,Punjab
+26,1,SO2,10.23803236,no,28,Punjab
+26,1,SPM,161.5610123,no,28,Punjab
+27,1,AQI,202.5075098,no,29,Rajasthan
+27,1,NO2,26.79239162,no,29,Rajasthan
+27,1,RSPM,113.1062305,no,29,Rajasthan
+27,1,SO2,6.712708396,no,29,Rajasthan
+27,1,SPM,216.77819,no,29,Rajasthan
+28,1,AQI,110.063116,no,31,Tamil Nadu
+28,1,NO2,21.41912068,no,31,Tamil Nadu
+28,1,RSPM,64.66871898,no,31,Tamil Nadu
+28,1,SO2,10.13839257,no,31,Tamil Nadu
+28,1,SPM,113.3136614,no,31,Tamil Nadu
+29,1,AQI,90.01430893,no,32,Telengana
+29,1,NO2,22.04941116,no,32,Telengana
+29,1,RSPM,82.41237988,no,32,Telengana
+29,1,SO2,5.18517524,no,32,Telengana
+29,1,SPM,26.2,no,32,Telengana
+30,1,AQI,231.3556353,no,34,Uttar Pradesh
+30,1,NO2,25.81422767,no,34,Uttar Pradesh
+30,1,RSPM,150.5660149,no,34,Uttar Pradesh
+30,1,SO2,10.49643815,no,34,Uttar Pradesh
+30,1,SPM,234.3577081,no,34,Uttar Pradesh
+31,1,AQI,156.0215499,no,35,Uttarakhand
+31,1,NO2,23.47714863,no,35,Uttarakhand
+31,1,RSPM,132.2510137,no,35,Uttarakhand
+31,1,SO2,16.3543196,no,35,Uttarakhand
+31,1,SPM,123.1091088,no,35,Uttarakhand
+32,1,AQI,129.1011117,no,36,West Bengal
+32,1,NO2,41.11321939,no,36,West Bengal
+32,1,RSPM,70.72273346,no,36,West Bengal
+32,1,SO2,7.271997452,no,36,West Bengal
+32,1,SPM,134.4251044,no,36,West Bengal
+33,1,AQI,149.4061587,yes,2,Andhra Pradesh
+33,1,NO2,21.91538435,yes,2,Andhra Pradesh
+33,1,RSPM,79.26749242,yes,2,Andhra Pradesh
+33,1,SO2,7.010298092,yes,2,Andhra Pradesh
+33,1,SPM,158.3500831,yes,2,Andhra Pradesh
+34,1,AQI,78.86309524,yes,3,Arunachal Pradesh
+34,1,NO2,4.857142857,yes,3,Arunachal Pradesh
+34,1,RSPM,67.07142857,yes,3,Arunachal Pradesh
+34,1,SO2,3.5,yes,3,Arunachal Pradesh
+34,1,SPM,26.2,yes,3,Arunachal Pradesh
+35,1,AQI,126.7944274,yes,4,Assam
+35,1,NO2,14.71835848,yes,4,Assam
+35,1,RSPM,94.77815115,yes,4,Assam
+35,1,SO2,6.535366472,yes,4,Assam
+35,1,SPM,118.973565,yes,4,Assam
+36,1,AQI,209.6430417,yes,5,Bihar
+36,1,NO2,28.71375,yes,5,Bihar
+36,1,RSPM,121.99575,yes,5,Bihar
+36,1,SO2,7.9475,yes,5,Bihar
+36,1,SPM,241.43475,yes,5,Bihar
+37,1,AQI,169.8191545,yes,6,Chandigarh
+37,1,NO2,19.56305533,yes,6,Chandigarh
+37,1,RSPM,102.2845462,yes,6,Chandigarh
+37,1,SO2,7.03063505,yes,6,Chandigarh
+37,1,SPM,181.3627309,yes,6,Chandigarh
+38,1,AQI,170.7421735,yes,7,Chhattisgarh
+38,1,NO2,24.60334254,yes,7,Chhattisgarh
+38,1,RSPM,111.9348665,yes,7,Chhattisgarh
+38,1,SO2,12.90974678,yes,7,Chhattisgarh
+38,1,SPM,181.5073527,yes,7,Chhattisgarh
+39,1,AQI,158.0572749,yes,8,Dadra & Nagar Haveli
+39,1,NO2,18.64447592,yes,8,Dadra & Nagar Haveli
+39,1,RSPM,90.9121813,yes,8,Dadra & Nagar Haveli
+39,1,SO2,9,yes,8,Dadra & Nagar Haveli
+39,1,SPM,171.3332625,yes,8,Dadra & Nagar Haveli
+40,1,AQI,165.4376505,yes,9,Daman & Diu
+40,1,NO2,18.05572755,yes,9,Daman & Diu
+40,1,RSPM,89.80804954,yes,9,Daman & Diu
+40,1,SO2,9.179566563,yes,9,Daman & Diu
+40,1,SPM,189.5026058,yes,9,Daman & Diu
+41,1,AQI,265.5019637,yes,10,Delhi
+41,1,NO2,39.84031705,yes,10,Delhi
+41,1,RSPM,138.8310626,yes,10,Delhi
+41,1,SO2,7.665167095,yes,10,Delhi
+41,1,SPM,290.6987147,yes,10,Delhi
+42,1,AQI,88.15631189,yes,11,Goa
+42,1,NO2,14.0383643,yes,11,Goa
+42,1,RSPM,59.06186955,yes,11,Goa
+42,1,SO2,6.800644672,yes,11,Goa
+42,1,SPM,65.94969346,yes,11,Goa
+43,1,AQI,155.6640081,yes,12,Gujarat
+43,1,NO2,23.58226072,yes,12,Gujarat
+43,1,RSPM,98.46518855,yes,12,Gujarat
+43,1,SO2,15.17840191,yes,12,Gujarat
+43,1,SPM,163.486497,yes,12,Gujarat
+44,1,AQI,184.1528147,yes,13,Haryana
+44,1,NO2,22.28772478,yes,13,Haryana
+44,1,RSPM,137.9657936,yes,13,Haryana
+44,1,SO2,10.58326818,yes,13,Haryana
+44,1,SPM,187.9725057,yes,13,Haryana
+45,1,AQI,139.6062208,yes,14,Himachal Pradesh
+45,1,NO2,14.7015142,yes,14,Himachal Pradesh
+45,1,RSPM,91.13472514,yes,14,Himachal Pradesh
+45,1,SO2,5.12213605,yes,14,Himachal Pradesh
+45,1,SPM,136.1476719,yes,14,Himachal Pradesh
+46,1,AQI,134.3563699,yes,15,Jammu & Kashmir
+46,1,NO2,9.670682731,yes,15,Jammu & Kashmir
+46,1,RSPM,116.5187082,yes,15,Jammu & Kashmir
+46,1,SO2,9.468875502,yes,15,Jammu & Kashmir
+46,1,SPM,104.4364458,yes,15,Jammu & Kashmir
+47,1,AQI,178.0598033,yes,16,Jharkhand
+47,1,NO2,38.73819493,yes,16,Jharkhand
+47,1,RSPM,159.1014533,yes,16,Jharkhand
+47,1,SO2,16.46170127,yes,16,Jharkhand
+47,1,SPM,185.1262851,yes,16,Jharkhand
+48,1,AQI,119.0392672,yes,17,Karnataka
+48,1,NO2,22.54549251,yes,17,Karnataka
+48,1,RSPM,70.60976238,yes,17,Karnataka
+48,1,SO2,9.940884217,yes,17,Karnataka
+48,1,SPM,117.1155206,yes,17,Karnataka
+49,1,AQI,86.81521699,yes,18,Kerala
+49,1,NO2,15.02766533,yes,18,Kerala
+49,1,RSPM,51.23898521,yes,18,Kerala
+49,1,SO2,5.618961145,yes,18,Kerala
+49,1,SPM,86.01065943,yes,18,Kerala
+50,1,AQI,168.0652254,yes,20,Madhya Pradesh
+50,1,NO2,18.83171597,yes,20,Madhya Pradesh
+50,1,RSPM,109.4164385,yes,20,Madhya Pradesh
+50,1,SO2,10.30240065,yes,20,Madhya Pradesh
+50,1,SPM,180.1455451,yes,20,Madhya Pradesh
+51,1,AQI,146.1757205,yes,21,Maharashtra
+51,1,NO2,27.64767492,yes,21,Maharashtra
+51,1,RSPM,94.61410556,yes,21,Maharashtra
+51,1,SO2,12.71274662,yes,21,Maharashtra
+51,1,SPM,141.0753635,yes,21,Maharashtra
+52,1,AQI,166.952381,yes,22,Manipur
+52,1,NO2,21.64285714,yes,22,Manipur
+52,1,RSPM,94.85714286,yes,22,Manipur
+52,1,SO2,5.657142857,yes,22,Manipur
+52,1,SPM,200.4285714,yes,22,Manipur
+53,1,AQI,101.8688684,yes,23,Meghalaya
+53,1,NO2,11.17081954,yes,23,Meghalaya
+53,1,RSPM,62.22568985,yes,23,Meghalaya
+53,1,SO2,4.955229029,yes,23,Meghalaya
+53,1,SPM,89.70585679,yes,23,Meghalaya
+54,1,AQI,73.8833958,yes,24,Mizoram
+54,1,NO2,9.926682834,yes,24,Mizoram
+54,1,RSPM,43.80305703,yes,24,Mizoram
+54,1,SO2,4.625352734,yes,24,Mizoram
+54,1,SPM,68.78179012,yes,24,Mizoram
+55,1,AQI,121.1541272,yes,25,Nagaland
+55,1,NO2,11.45438389,yes,25,Nagaland
+55,1,RSPM,89.68088468,yes,25,Nagaland
+55,1,SO2,5.471169036,yes,25,Nagaland
+55,1,SPM,110.2563981,yes,25,Nagaland
+56,1,AQI,138.7663738,yes,26,Odisha
+56,1,NO2,16.92930179,yes,26,Odisha
+56,1,RSPM,88.46367192,yes,26,Odisha
+56,1,SO2,5.796073607,yes,26,Odisha
+56,1,SPM,140.3288097,yes,26,Odisha
+57,1,AQI,91.12222955,yes,27,Puducherry
+57,1,NO2,13.14863676,yes,27,Puducherry
+57,1,RSPM,50.31970097,yes,27,Puducherry
+57,1,SO2,8.493733509,yes,27,Puducherry
+57,1,SPM,94.95662562,yes,27,Puducherry
+58,1,AQI,174.0727989,yes,28,Punjab
+58,1,NO2,27.46321537,yes,28,Punjab
+58,1,RSPM,155.897986,yes,28,Punjab
+58,1,SO2,10.29656177,yes,28,Punjab
+58,1,SPM,156.7693016,yes,28,Punjab
+59,1,AQI,204.2140048,yes,29,Rajasthan
+59,1,NO2,28.13191301,yes,29,Rajasthan
+59,1,RSPM,121.4301453,yes,29,Rajasthan
+59,1,SO2,6.894145349,yes,29,Rajasthan
+59,1,SPM,212.8240885,yes,29,Rajasthan
+60,1,AQI,40,yes,30,Sikkim
+60,1,NO2,26.8,yes,30,Sikkim
+60,1,RSPM,32,yes,30,Sikkim
+60,1,SO2,19.8,yes,30,Sikkim
+60,1,SPM,75,yes,30,Sikkim
+61,1,AQI,104.0838874,yes,31,Tamil Nadu
+61,1,NO2,21.98910337,yes,31,Tamil Nadu
+61,1,RSPM,66.90572519,yes,31,Tamil Nadu
+61,1,SO2,10.82976786,yes,31,Tamil Nadu
+61,1,SPM,101.3886257,yes,31,Tamil Nadu
+62,1,AQI,91.26804124,yes,32,Telengana
+62,1,NO2,23.05498282,yes,32,Telengana
+62,1,RSPM,84.86254296,yes,32,Telengana
+62,1,SO2,5.210996564,yes,32,Telengana
+62,1,SPM,26.2,yes,32,Telengana
+63,1,AQI,244.4048882,yes,34,Uttar Pradesh
+63,1,NO2,26.86734968,yes,34,Uttar Pradesh
+63,1,RSPM,159.1370955,yes,34,Uttar Pradesh
+63,1,SO2,11.00975175,yes,34,Uttar Pradesh
+63,1,SPM,242.1285081,yes,34,Uttar Pradesh
+64,1,AQI,141.2520861,yes,35,Uttarakhand
+64,1,NO2,23.67735818,yes,35,Uttarakhand
+64,1,RSPM,135.7622801,yes,35,Uttarakhand
+64,1,SO2,17.74396438,yes,35,Uttarakhand
+64,1,SPM,79.32185576,yes,35,Uttarakhand
+65,1,AQI,155.1426179,yes,36,West Bengal
+65,1,NO2,43.47855076,yes,36,West Bengal
+65,1,RSPM,92.6754822,yes,36,West Bengal
+65,1,SO2,8.146317728,yes,36,West Bengal
+65,1,SPM,166.0172979,yes,36,West Bengal
